@@ -2,7 +2,7 @@
 import { sequence } from '@/assets/json/cheatsheets.json'
 import CopyablePre from '@/components/UmlCodeCheatSheet/CopyablePre.vue'
 import CopyableCode from '@/components/UmlCodeCheatSheet/CopyableCode.vue'
-const url = `${import.meta.env.VITE_PLANTUML_SERVER}/svg/`
+const url = `${import.meta.env.VITE_PLANTUML_SERVER}/svg/~1`
 </script>
 
 <template>
